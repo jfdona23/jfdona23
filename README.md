@@ -2,8 +2,8 @@
 
 I'm Juan Fernando (call me Juan for short if you please) and I'm a passionate and curious creature that's always looking to learn something interesting and new. \
 Currently I'm working as a Software Engineer MTS in a great SRE team. \
-In my free time I try to expand my horizon learing new programming languages or technologies that could be helful for my team and also for my personal and professional growth. \
-I love long talks so feel free to reach out if you have any question or just wishing for a tech talk!
+In my free time I try to expand my horizons by learning new programming languages or technologies that could be helpful for my team, but also for my own personal and professional growth. \
+I love long talks so feel free to reach out if you have any question or just willing for a tech talk!
 
 <!--
 **jfdona23/jfdona23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
