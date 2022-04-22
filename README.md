@@ -1,9 +1,9 @@
 ### Welcome to my repo! 👋
 
-I'm Juan Fernando (call me Juan for short if you please) and I'm a passionate and curious creature that's always looking to learn something interesting and new. \
-Currently I'm working as a Software Engineer MTS in a great SRE team. \
-In my free time I try to expand my horizons by learning new programming languages or technologies that could be helpful for my team, but also for my own personal and professional growth. \
-I love long talks so feel free to reach out if you have any question or just willing for a tech talk!
+I'm Juan Fernando and I'm a passionate and curious creature that's always looking to learn something interesting and new. \
+Currently I'm working as a Infrastructure Consultant in one of the greatest places to work here in Spain!. \
+In my free time I try to expand my horizons, gain new skills or learn about new technologies that could be helpful for the team, and also for my own personal and professional growth. \
+I'm a chatty person so feel free to reach out and let's have a (virtual) coffee!
 
 <!--
 **jfdona23/jfdona23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Site Reliability Engineer
-- 🌱 I’m currently learning Golang
+- 🔭 I’m currently working as Infrastructure Consultant
+- 🌱 I’m currently learning about Delivery performance and Leadership
 - 👯 I’m looking to collaborate on FOSS projects
-- 🤔 I’m looking for help with algorithms and data structures
+- 🤔 I’m looking for help to grow my technical vision and coaching skills
 - 💬 Ask me about IoT, Raspberry and electronics!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jfd23/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jfd23/) or [Discord](https://discordapp.com/users/733059052334088273)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: My whole me is a _fun fact_!
