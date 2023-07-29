@@ -1,8 +1,8 @@
 ### Welcome to my repo! 👋
 
-I'm Juan Fernando and I'm a passionate and curious creature that's always looking to learn something interesting and new. \
-Currently I'm working as a Infrastructure Consultant in one of the greatest places to work here in Spain!. \
-In my free time I try to expand my horizons, gain new skills or learn about new technologies that could be helpful for the team, and also for my own personal and professional growth. \
+I'm Juan Fernando and I'm a passionate and curious person who's always looking to learn something interesting and new. \
+Currently, I work as a Tech Lead and Infrastructure Consultant in Barcelona, Spain. \
+In my free time I enjoy watching series, having a coffee outside, reading, going for a walk or playing videogames. \
 I'm a chatty person so feel free to reach out and let's have a (virtual) coffee!
 
 <!--
@@ -15,16 +15,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... [Discord](https://discordapp.com/users/733059052334088273)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working as Infrastructure Consultant
-- 🌱 I’m currently learning about Delivery performance and Leadership
-- 👯 I’m looking to collaborate on FOSS projects
-- 🤔 I’m looking for help to grow my technical vision and coaching skills
+- 🔭 I’m currently working on getting better at business relationship growth and management
+- 🌱 I’m currently learning about business strategies
+- 👯 I’m looking to collaborate on NGO initiatives worldwide
+- 🤔 I’m looking for help to grow my strategic vision
 - 💬 Ask me about IoT, Raspberry and electronics!
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jfd23/) or [Discord](https://discordapp.com/users/733059052334088273)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jfd23/)
 - 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: My whole me is a _fun fact_!
+- ⚡ Fun fact: I'm a _fun fact_!
